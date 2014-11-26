@@ -14,20 +14,22 @@ Dependencies
 Run
 ---
 
-1. Install `ruby` dependencies
+1. Follow steps 1 through 5 from https://github.com/emseupm/api#run
+
+2. Install `ruby` dependencies
 
         bundle
 
-2. Install `bower` and `grunt-cli`
+3. Install `bower` and `grunt-cli`
 
         npm install -g bower grunt-cli
 
-3. Install `bower` and `npm` dependencies
+4. Install `bower` and `npm` dependencies
 
         bower install && npm install
 
-4. Run `grunt`
+5. Run `grunt`
 
         grunt serve
 
-5. Open http://localhost:9000
+6. Open http://localhost:9000
